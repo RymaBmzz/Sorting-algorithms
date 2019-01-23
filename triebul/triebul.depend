@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1510523467 source:c:\users\litissia\desktop\tpcomplexite\triebul\main.c
+	<stdio.h>
+	<stdlib.h>
+

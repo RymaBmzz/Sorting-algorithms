@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1511646618 source:c:\users\litissia\desktop\tpcomplexite\heapsort\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

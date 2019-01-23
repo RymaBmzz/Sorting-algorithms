@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1511541456 source:c:\users\litissia\desktop\tpcomplexite\triiefusionnn\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1511906806 source:d:\etudes\m1 sii 2017_2018\complexité\projetcomplexite\trifusion\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
