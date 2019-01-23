@@ -6,6 +6,5 @@ On considère les 6 méthodes de tri suivantes:
 1- Le tri par sélection,
 2- Le tri par insertion,
 3- Le tri bulle,
-4- Le tri rapide,
-5- Le tri par fusion,
-6- Le tri tas.
+4- Le tri par fusion,
+5- Le tri tas. 
